@@ -1,0 +1,1 @@
+// export const BASE_URL = 'http://api.varoev.com/api/v3/ev';
